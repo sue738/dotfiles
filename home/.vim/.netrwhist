@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/sue738/Dropbox/work/senseinote/config/deploy'
 let g:netrw_dirhist_2='/Users/sue738/Dropbox/work/senseiportal/app/models'
 let g:netrw_dirhist_3='/Users/sue738/Dropbox/work/senseinote/config'
@@ -8,3 +8,4 @@ let g:netrw_dirhist_5='/Users/sue738/Dropbox/work/senseinote/vendor'
 let g:netrw_dirhist_6='/Users/sue738/Dropbox/work/senseinote/.git'
 let g:netrw_dirhist_7='/Users/sue738/Dropbox/work/senseinote/app/views/video_chats'
 let g:netrw_dirhist_8='/Users/sue738/Dropbox/work/spanisimo/spec/requests'
+let g:netrw_dirhist_9='/Users/sue738/.homesick/repos/dotfiles/home/.vim'

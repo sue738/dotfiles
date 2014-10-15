@@ -102,10 +102,10 @@ endif
 
 
 filetype off
-if has('vim_starting')
-  set runtimepath+=~/.vim/bundle/neobundle.vim
-  call neobundle#rc(expand('~/.vim/bundle/'))
-endif
+"if has('vim_starting')
+"  set runtimepath+=~/.vim/bundle/neobundle.vim
+"  call neobundle#rc(expand('~/.vim/bundle/'))
+"endif
 
 " originalrepos on github
 "NeoBundle 'Shougo/neobundle.vim'
@@ -117,9 +117,9 @@ endif
 "NeoBundle 'Shougo/neosnippet'
 "NeoBundle 'jpalardy/vim-slime'
 "NeoBundle 'scrooloose/syntastic'
-""NeoBundle 'https://bitbucket.org/kovisoft/slimv'
-NeoBundle 'scrooloose/nerdtree'
-NeoBundle 'bbatsov/rubocop'
+"NeoBundle 'https://bitbucket.org/kovisoft/slimv'
+"NeoBundle 'scrooloose/nerdtree'
+"NeoBundle 'bbatsov/rubocop'
 "NeoBundle 'kana/vim-smartinput'
 "NeoBundle 'tpope/vim-endwise'
 "NeoBundle 'romanvbabenko/rails.vim'
