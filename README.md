@@ -10,3 +10,11 @@ cd ~/.homesick/repos/dotfiles/
 git submodule update --init
 homesick symlink dotfiles
 ```
+
+# Brewfile
+
+```
+cd ~/.homesick/repos/dotfiles/home
+brew tap homebrew/boneyard
+brew bundle
+```
