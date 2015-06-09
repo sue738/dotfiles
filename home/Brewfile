@@ -60,6 +60,7 @@ cask install dropbox
 cask install firefox
 cask install flash
 cask install flip4mac
+cask install genymotion
 cask install gimp
 cask install github
 cask install google-chrome
@@ -67,11 +68,10 @@ cask install google-drive
 cask install grandperspective
 cask install handbrake
 cask install iterm2
-cask install keyremap4macbook
+cask install karabiner
 cask install libreoffice
 cask install limechat
 cask install lyn
-cask install openoffice
 cask install opera
 cask install quicksilver
 cask install ripit
